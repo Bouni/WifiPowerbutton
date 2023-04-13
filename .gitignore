@@ -1,0 +1,6 @@
+*backups*
+*.kicad_prl
+gerber
+jlcpcb
+*-backups*
+*.py
